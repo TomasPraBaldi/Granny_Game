@@ -1,8 +1,6 @@
 import random
 import os
 from lists import story_beginnings, story_ends
-import tkinter as tk
-import ttkbootstrap as ttk
 
 class Players():
     def __init__(self,number,name,color):
